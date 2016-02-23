@@ -1,4 +1,4 @@
-# React-Ruby
+# React-Sinatra
 An example app using Sinatra and React
 
 ### UP & RUNNING
@@ -6,7 +6,6 @@ An example app using Sinatra and React
 - `bundle install`
 - `npm install`
 - `npm run dev`
-- `ruby lib/app.rb`
 - open your browser to `localhost:8080`
 
 ### WHATS HAPPENING

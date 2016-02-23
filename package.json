@@ -1,5 +1,5 @@
 {
-  "name": "react-ruby",
+  "name": "react-sinatra",
   "version": "0.1.0",
   "description": "example sinatra-react app",
   "main": "index.js",
