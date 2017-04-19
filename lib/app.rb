@@ -1,4 +1,5 @@
 require 'sinatra'
+configure { set :server, :puma }
 
 set :root, 'lib/app'
 
