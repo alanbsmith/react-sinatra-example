@@ -1,5 +1,5 @@
 {
-  "name": "react + sinatra starter",
+  "name": "react-sinatra-example",
   "version": "1.0.0",
   "description": "example sinatra-react app",
   "main": "index.js",
