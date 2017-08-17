@@ -1,6 +1,6 @@
 {
-  "name": "react + sinatra starter",
-  "version": "1.0.0",
+  "name": "react-sinatra-starter",
+  "version": "1.0.1",
   "description": "example sinatra-react app",
   "main": "index.js",
   "scripts": {
