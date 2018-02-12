@@ -1,7 +1,7 @@
 require 'sinatra'
 configure { set :server, :puma }
 
-set :root, 'lib/app'
+set :root, 'app'
 
 get '/' do
   render :html, :index
